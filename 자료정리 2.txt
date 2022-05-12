@@ -1,0 +1,6 @@
+5대범죄, 불법컨텐츠,마약,성범죄자,소년범죄,음주운전,사이버
+범행동기, 장소별 통계 소년<->일반<->고령범죄자<->외국인범죄자
+범죄 연령,직업
+
+범죄발생지역:https://www.data.go.kr/data/15085727/fileData.do
+https://www.crimestats.or.kr/portal/crime/selectCrimeIssuePage.do?bbsCd=ISSUE&seq=5450
