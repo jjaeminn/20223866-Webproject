@@ -1,0 +1,217 @@
+td {
+    
+    border-style: outset;
+    border-bottom: 4px solid black;
+    width :120px;
+    height:60px;
+    
+    
+} 
+table {border-spacing: 20px;}
+
+.header {
+    display: flex; 
+    
+}
+
+.nav{
+    display: flex;
+    width:calc(1280px - 300px);
+    list-style: none;
+    justify-content: flex-end;
+    font-size: 150%;
+}
+.nav > li {
+    margin-left: 80px;
+    
+}
+
+.mainlog{
+    width:300px;
+    height:40px;
+    backgroud: green;
+    border-radius: 5px;
+      
+}
+
+.box {
+    margin: 100px;
+    
+
+}
+.hr {
+    style:gray;
+    width:50%;
+
+}
+
+.graph { 
+    height: 40px;
+    background: #ccc; 
+    border-radius: 40px;
+    width: 500px;
+
+    
+}
+.graph span  {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    background: blue;
+    border-radius: 40px;
+    padding: 0 10px;
+    box-sizing: border-box; animation: stack 2s 1;
+    color: #fff
+}
+.box1 {
+    padding-left: 200px;
+}
+.box2 { 
+    padding-right: 200px;
+
+}
+.box3 { 
+    padding-left: 400px;
+    
+}
+
+
+
+.blue {
+    background: blue;
+}
+.red { 
+    background: red;
+}
+.yellow { 
+    background: yellow;
+    
+}
+.green { 
+    background: green;
+
+}
+.div { 
+    margin: 50px 50px;
+}
+.span {
+    position: relative;
+    font-size: 20px;
+    line-height: 1.8em;
+    color:#fff;
+    text-align: center;
+    border-radius: 15px;
+}
+img { display: block;
+margin: auto;}
+
+
+
+
+
+
+@keyframes stack1{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 80%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack2{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack3{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 25%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack4{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack5{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack6{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack7{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack8{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack9{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack10{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack11{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack12{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack13{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 20%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack14{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 40%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack15{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 50%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack16{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 15%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}@keyframes stack17{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 30%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+@keyframes stack18{
+    0% {width: 0; opacity: 0; color: rgba(255,255,255,0, green, blue, alpha);}
+    100% {width: 70%;opacity: 1; color: rgba(255,255,255,1, green, blue, alpha);} 
+}
+
+.graph.stack1 span {animation: stack1 2s 1;}
+
+.graph.stack2 span {animation: stack2 2s 1;}
+
+.graph.stack3 span {animation:stack3 2s 1;}
+
+.graph.stack4 span {animation:stack4 2s 1;}
+
+.graph.stack5 span {animation:stack5 2s 1;}
+
+.graph.stack6 span {animation:stack6 2s 1;}
+
+.graph.stack7 span {animation:stack7 2s 1;}
+
+.graph.stack8 span {animation:stack8 2s 1;}
+
+.graph.stack9 span {animation:stack9 2s 1;}
+
+.graph.stack10 span {animation:stack10 2s 1;}
+
+.graph.stack11 span {animation:stack11 2s 1;}
+
+.graph.stack12 span {animation:stack12 2s 1;}
+
+.graph.stack13 span {animation:stack13 2s 1;}
+
+.graph.stack14 span {animation:stack14 2s 1;}
+
+
+
+
+
